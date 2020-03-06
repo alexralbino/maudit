@@ -1,5 +1,5 @@
 {
-    "name": "mixdinternet/maudit",
+    "name": "alexralbino/maudit",
     "description": "Lista as ações dos usuários no admix",
     "keywords": ["laravel", "audit", "log"],
     "license": "MIT",
@@ -12,9 +12,8 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
-        "laravel/framework": "~5.0",
-        "venturecraft/revisionable": "1.*"
+        "php": ">=7.2"
+        
     },
     "autoload": {
         "psr-4": {
